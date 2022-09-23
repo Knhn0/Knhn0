@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Knhn0
+- 👀 I’m interested in C# and Python
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://t.me/knshno
