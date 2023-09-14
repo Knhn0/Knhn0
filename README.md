@@ -11,7 +11,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-knshn0-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/knshno) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Knhn0@yandex.ru)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-knshn0-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/knshno) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Knhn0@yandex.ru)
 
 ---
 
