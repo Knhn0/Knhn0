@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я Junior backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. На данный момент являюсь студентом Пензенского государственного университета и участником центра проектоного творчества ПГУ. 
+Я Junior backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Студент Пензенского государственного университета. Глава центра проектоного творчества ПГУ. 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
